@@ -53,4 +53,6 @@ If the value displayed is different from the value expected, then an override is
 16.git config --global user.email "youremail" - Git allows you to set a global and per-project username and email address. 
 You can set or change your git identity using the git config command. Changes only affect future commits. The name and email associated with the commits you made prior to the change are not affected.
 
-17.git remote -v -
+17.git remote -v - This will give the URL of the remote reository with which the local is connected
+
+18.git reset - git reset filename will move back the addaed file from staging area to the working area.
