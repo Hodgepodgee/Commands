@@ -1,0 +1,11 @@
+Linux Commands
+
+1) Pwd
+
+2)whoami
+
+3)cd, cd .. , cd. , cd dir 
+
+4) ls
+
+5) mkdir
