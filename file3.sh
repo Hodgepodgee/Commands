@@ -1,4 +1,7 @@
-echo "command line arguments are "
-echo $1
-echo $2
-echo $0
+a=8
+b=16
+echo $((a+b))
+ 
+
+#2 way
+#echo "sum is `expr $a + $b` "
